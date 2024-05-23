@@ -1,0 +1,161 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+  scroll-behavior: smooth;
+  color: var(--font-color);
+  background-color: var(--background-color);
+  font-family: 'Times New Roman', Times, serif;
+}
+:root{
+  --background-color: white;
+  --font-color: black;
+}
+
+/* Home Page CSS */
+.dark-theme{
+  --background-color: black;
+  --font-color: white; 
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 70px;
+  width: 100%;
+  padding: 2rem 9%;
+  background-color: var(--background-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+}
+.logo{
+font-size: 2.5rem;
+font-weight: 600;
+cursor: pointer;
+font-family: "Madimi One", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+#A-logo{
+  font-family: "Madimi One", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #FC6736;
+}
+
+.navbar a{
+ font-size: 1.2rem;
+ margin-left: 4rem;
+ transition: .3s;
+}
+.navbar a:hover{
+  color: #FC6736;
+}
+#icon{
+  width: 35px;
+  cursor: pointer;
+}
+section{
+  height: 100vh;
+}
+#home{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 110px 0px;
+}
+.home-content h3{
+  font-size: 2rem;
+  font-weight: 500;
+}
+.home-content h1{
+  font-size: 5rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.role{
+  color: #FC6736;
+}
+.home-content h4{
+  font-size: 2rem;
+  font-weight: 500;
+}
+.social-media a{
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 3rem;
+  height: 3rem;
+  background: transparent;
+  font-size: 1.5rem;
+  margin: 2rem 1.5rem 3rem 0;
+}
+.tech-stack{
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+.tech-stack h2{
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+.tech-stack img{
+  height: 50px;
+  width: 50px;
+  object-fit: contain;
+}
+.tech-stack p{
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+.profile-photo img{
+  height: 600px;
+  width: 500px;
+  border-radius:  29% 71% 70% 30% / 58% 44% 56% 42%;
+  animation: spin 6s ease-in infinite alternate-reverse;
+}
+@keyframes spin {
+  0% {border-radius: 40% 60% 60% 40% / 60% 30% 70% 40%;} 
+  50%{border-radius: 40% 60% 60% 40%;}
+  100% {border-radius: 30% 70%/ 40% 60%;} 
+}
+
+/* About Page CSS */
+#about{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 350px;
+  gap: 50px;
+}
+
+.btn{
+  display: inline-block;
+  padding: .7rem 1.2rem;
+  background: #FC6736;
+  box-shadow: 0 0 .7rem #FC6736;
+  font-size: 1.2rem;
+  color: var(--font-color);
+  letter-spacing: .1rem;
+  font-weight: 300;
+  transition: transform .2s ease;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+.btn:hover{
+  transform: scale(1.1);
+}
