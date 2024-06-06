@@ -21,7 +21,7 @@ var tl = gsap.timeline();
 tl.from(".social-media a",{
   opacity : 0,
   y : 30,
-  duration : 0.7,
+  duration : 0.6,
   delay : 0.3,
   stagger : 0.2
 });
