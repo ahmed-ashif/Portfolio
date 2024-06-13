@@ -1,6 +1,6 @@
 Welcome to my portfolio! I am a passionate and dedicated frontend developer with a recent postgraduate degree in Master of Computer Applications (MCA). Here, you will find a collection of my projects, showcasing my skills and expertise in frontend development. Each project highlights my ability to create visually appealing, responsive, and user-friendly web applications.<br>
 
-About Me :-
+About Me :- <br>
 I am a fresher frontend developer with a strong foundation in web technologies and a keen eye for design. My academic background and hands-on project experience have equipped me with the skills necessary to excel in the field of frontend development. I am constantly learning and keeping up-to-date with the latest trends and technologies to ensure my work is modern and efficient.
 
 Skills :-
