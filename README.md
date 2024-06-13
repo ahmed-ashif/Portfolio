@@ -1,6 +1,6 @@
 <h1>Welcome to my portfolio!</h1> 
 <br>
-<h3>I am a passionate and dedicated frontend developer with a recent postgraduate degree in Master of Computer Applications (MCA). Here, you will find a collection of my projects, showcasing my skills and expertise in frontend development. Each project highlights my ability to create visually appealing, responsive, and user-friendly web applications. </h3>
+<h3>I am a passionate and dedicated frontend developer with a recent postgraduate degree in Master of Computer Applications (MCA).</h3>
 <br>
 <h2>About Me :-</h2>
 <br>
