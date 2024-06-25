@@ -9,12 +9,12 @@ I am a fresher frontend developer with a strong foundation in web technologies a
 <h2>Skills :-</h2> 
 <br>
 <b>
-Technologies: HTML, CSS
-Languages: JavaScript, Typescript
-Frameworks & Libraries: React, Bootstrap, jQuery, Tailwind CSS
-Tools: Git, Visual Studio Code, npm
-Design: Responsive Web Design, UI/UX Principles
-Version Control: GitHub
+Technologies: HTML, CSS <br>
+Languages: JavaScript, Typescript <br>
+Frameworks & Libraries: React, Bootstrap, jQuery, Tailwind CSS <br>
+Tools: Git, Visual Studio Code, npm <br>
+Design: Responsive Web Design, UI/UX Principles <br>
+Version Control: GitHub <br>
 </b>
 
 <h2>Education:-</h2>
