@@ -10,10 +10,8 @@ I am a fresher frontend developer with a strong foundation in web technologies a
 <br>
 <b>
 Technologies: HTML, CSS <br>
-Languages: JavaScript, Typescript <br>
+Languages: C, C++, JavaScript, Typescript <br>
 Frameworks & Libraries: React.js, Bootstrap, jQuery, Tailwind CSS <br>
-Tools: Git, Visual Studio Code, npm <br>
-Design: Responsive Web Design, UI/UX Principles <br>
 Version Control: GitHub <br>
 </b>
 
